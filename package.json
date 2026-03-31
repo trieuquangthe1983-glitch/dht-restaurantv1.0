@@ -1,1 +1,8 @@
-{\n  "name": "dht-restaurantv1.0",\n  "version": "1.0.0",\n  "description": "A simple static restaurant website.",\n  "scripts": {\n    "build": "echo 'Building static site...'"\n  },\n  "dependencies": {},\n  "devDependencies": {}\n}
+{
+  "name": "dht-restaurantv1.0",
+  "version": "1.0.0",
+  "description": "A simple static restaurant website",
+  "scripts": {
+    "build": "echo Build complete"
+  }
+}
