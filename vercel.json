@@ -1,5 +1,5 @@
 {
+{
   "buildCommand": "echo 'Static site ready'",
-  "outputDirectory": ".",
-  "framework": "html"
+  "outputDirectory": "."
 }
